@@ -1,4 +1,4 @@
-package Evento.Base;
+package Base;
 
 public abstract class Eventos {
     private String nombre;

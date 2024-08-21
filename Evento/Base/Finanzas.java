@@ -1,6 +1,6 @@
-package Evento.Interface;
+package Base;
 
-public interface Finanzas {
+public interface Finanzas  {
     default void manejar_finanzas(){
         
     }

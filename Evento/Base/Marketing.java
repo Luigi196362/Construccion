@@ -1,4 +1,4 @@
-package Evento.Interface;
+package Base;
 
 public interface Marketing {
 default void gestionar_marketing(){
